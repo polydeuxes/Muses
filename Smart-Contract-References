@@ -10,6 +10,9 @@ https://bitcointalk.org/index.php?topic=764189.0
 CAT and Schnorr Sigs Part 1
 https://www.wpsoftware.net/andrew/blog/cat-and-schnorr-tricks-i.html
 
+Disabled OPCodes
+https://github.com/bitcoin/bitcoin/commit/4bd188c4383d6e614e18f79dc337fbabe8464c82
+
 Nick Szabo's Smart Contracts
 https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html
 
