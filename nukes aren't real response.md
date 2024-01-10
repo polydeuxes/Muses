@@ -6,7 +6,7 @@ So there's two components to radiation, Contamination and radiation. Contaminati
 
 07:00 - Nuclears are weaker than they were before.
 
-Yes, I agree with this. THere's been a lot of propaganda when it comes to nuclear. I'll swing back to this with the Galen Winsor portion. 
+Yes, I agree with this. There's been a lot of propaganda when it comes to nuclear. I'll swing back to this with the Galen Winsor portion. 
 
 08:00 - has anyone seen an atom? we 'split an atom'
 
