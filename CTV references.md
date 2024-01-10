@@ -69,4 +69,4 @@ BIP119 References
 https://bip119.com/
 
 Smart Contract References I've collected
-https://github.com/polydeuxes/musings/blob/main/Smart-Contract-References
+https://github.com/polydeuxes/musings/blob/main/Smart-Contract-References.md
