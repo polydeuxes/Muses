@@ -20,7 +20,7 @@ Templates, Eltoo, and Covenants, Oh My!
 https://rubin.io/blog/2021/07/02/covenants/
 
 Covenant Comparison Sheet
-https://docs.google.com/spreadsheets/d/1YL5ttNb6-SHS6-C8-1tHwao1_19zNQ-31YWPAHDZgfo/edit#gid=0
+https://docs.google.com/spreadsheets/d/1YL5ttNb6-SHS6-C8-1tHwao1_19zNQ-31YWPAHDZgfo
 
 Followering are Use-Cases:
 
