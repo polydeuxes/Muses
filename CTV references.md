@@ -57,6 +57,12 @@ https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da
 Zen's DLC's+CTV
 https://web.archive.org/web/20231115141520/https://zensored.substack.com/p/supercharging-dlcs-with-ctv
 
+BIP119 References
+https://bip119.com/
+
+Smart Contract References I've collected
+https://github.com/polydeuxes/musings/blob/main/Smart-Contract-References.md
+
 These two following sidechain implementations use Blind Merge Mining which many feel isn't a safe economic model since miners can frontrun, but I like to include them for those who do.
 
 Stakechains
@@ -64,9 +70,3 @@ https://t.co/dYKohYriAk
 
 Surfchains
 https://gist.github.com/moonsettler/e0c24863fda418a2fb504a307fda8a19
-
-BIP119 References
-https://bip119.com/
-
-Smart Contract References I've collected
-https://github.com/polydeuxes/musings/blob/main/Smart-Contract-References.md
